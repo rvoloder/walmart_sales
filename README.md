@@ -41,13 +41,11 @@ The Random Forest model was chosen as the approprate model for predicting sales 
 
 #### Holidays and Weekly Sales
 
+![Holiday Walmart Graph](https://user-images.githubusercontent.com/101893905/170766451-bdde262f-d4bf-44b1-8496-5f08bd4af70a.png)
+
+#### Unemployment and Weekly Sales
 
 
-#### Item Category Sales
-
-The categories with the highest performing items are "Household", "Fruits and Vegetables", and "Snack Foods".
-
-<img width="403" alt="Item Type" src="https://user-images.githubusercontent.com/101893905/165899981-f0211047-dece-4d1f-8b9e-9369dff53f09.png">
 
 ## Recommendations:
 

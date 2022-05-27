@@ -45,20 +45,26 @@ The Random Forest model was chosen as the approprate model for predicting sales 
 
 #### Unemployment and Weekly Sales
 
+Unemployment Rate in Area of Store:
 
+![Unemployment Walmart](https://user-images.githubusercontent.com/101893905/170766714-e10e7479-5ca1-4b38-ae02-e1a9cd3cd87c.png)
+
+Weekly Sales per Store:
+
+![Sales by Store Walmart](https://user-images.githubusercontent.com/101893905/170766809-8cb5b669-fe49-4b7b-9ebf-610400e4f6ae.png)
 
 ## Recommendations:
 
-From the analysis provided above and within the file, I would recommend that the company figure out exactly which items are the highest performers. It would then be a good idea to evaluate which components seem to be making those items outperform others. Is it something the company can control (their display, item visibility, etc.) or something that is linked more to the individual product (brand recognition, advertising, etc.). They can then act accordingly. It would also be wise to figure out why certain location types or store types seem to be performing better and try to implement some of those aspects in other stores or for other items (design, location selection, etc.). Any of these factors could lead to improved sales numbers in the future. 
+From the analysis provided above and within the file, I would recommend the company increase inventory around the holidays (towards the end of the year). I would also suggest they reconsider some of their store locations if they are found in higher income areas and (for the future) to plan on opening stores in poorer neighborhoods, where they tend to perform better. It might also be a good idea to offer some post-holiday deals if they would like to increase sales in that time range. 
 
 The model is also able to provide predictions based on the current data and can be improved as more data is added. 
 
 
 ## Limitations & Next Steps:
 
-The biggest limitation in this project is the lack of individual product name or description that would have allowed us to make further insights into causation of high or low performance. Missing data was also another challenge but was dealt with appropriately.
+The biggest limitation in this project is the lack of performance per day data. If we could have taken a look to see which days or which holidays or the lead up to which perform the best, we could have given better predictions. 
 
-In the next steps, the individual items with high sales should be looked at and analyzed more deeply to find links and reasons for their high performance, concepts that can be carried over to other stores and items. The model should also be used to predict the sales of future items added to the store and to compare whether making certain changes do indeed created better performance and higher sales predictions for other "low performers".
+In the next steps, the stores with highest performance can be analyzed based on consumer demographics, set-up, inventory, etc. to see if there are other reasons that they might be performing better than others. Other holidays such as mother's day, valentine's day, etc. can also be targeted to see if sales can be increased for these holidays (where most people are buying presents).
 
 ### For further information
 
